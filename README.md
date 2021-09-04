@@ -9,3 +9,6 @@ sudo ln -s /System/Library/Frameworks/JavaScriptCore.framework/Versions/Current/
 ```bash
 jsc demo-js-file.js
 ```  
+### Resources:
+* Link to Webkit/JavaScriptCore source: [https://github.com/WebKit/WebKit/tree/main/Source/JavaScriptCore](https://github.com/WebKit/WebKit/tree/main/Source/JavaScriptCore)
+* JavaScriptCore Internals Part I: Tracing JavaScript Source to Bytecode: [https://zon8.re/posts/jsc-internals-part1-tracing-js-source-to-bytecode/](https://zon8.re/posts/jsc-internals-part1-tracing-js-source-to-bytecode/)
